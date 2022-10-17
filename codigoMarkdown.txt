@@ -1,0 +1,50 @@
+##Comandos
+
+
+**1.** pwd: muestra la ruta actual del directorio.
+
+**2.** cd: cambia de directorio.
+
+**3.** history: muestra el historial de comandos.
+
+**4.** cat: concatena y muestra archivos.
+
+**5.** echo: escribe un mensaje.
+
+**6.** clear: limpia la pantalla.
+
+**7.** mkdir: crea un directorio
+
+**8.** ls: muestra el contenido del directorio.
+
+**9.** ln: crea un acceso directo a un archivo.
+
+**10.** help: proporciona información sobre otro comando.
+
+**11.** rmdir: borra un directorio vacío.
+
+**12.** touch: crea archivos.
+
+**13.** cp: copia archivos.
+
+**14.** mv: mueve un archivo a un directorio.
+
+**15.** git init: crea un nuevo repositorio.
+
+**16.** git commit: crea un commit.
+
+**17.** git add: agrega los cambios al commit.
+
+**18.** git status: da información de la rama actual.
+
+**19.** git config --global user.name "": configura el nombre de usuario.
+
+**20.** git config --global user.email "": configura el correo del usuario.
+
+**21.** git restore: restaura el estado de un archivo.
+
+**22.** git checkout: permite cambiar de rama.
+
+**23.** git log: permite explorar el historial del repositorio
+
+**24.** git branch -m: permite crear una rama.
